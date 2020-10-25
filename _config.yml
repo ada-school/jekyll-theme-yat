@@ -4,14 +4,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
-copyright: Copyright © 1970-2010
+title: ADA School Blog
+email: ada@ada-school.org
+author: ada-school
+copyright: Copyright © 2020
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ADA School te entrena para crecer como profesional, aumentando
+  tanto tus habilidades técnicas como tus hablididades blandas.
+  Encuentra en nuestro blog artículos interesantes que ayudarán
+  durante tu aprendizaje.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,7 +36,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "es"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -76,7 +77,7 @@ yat:
 # theme_color: snowwhite
 #
 # Custom color as below:
-# theme_color: "#882250"
+theme_color: "#641BF5"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
