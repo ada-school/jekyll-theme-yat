@@ -12,7 +12,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #313b3f !default;
 $background-color: #fff !default;
-$brand-color:      #ff5100 !default;
+$brand-color:      #641BF5 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -30,7 +30,7 @@ $footer-height: $header-height * 1.05 !default;
 $footer-text-color: lighten(invert($theme-color), 25%) !default;
 $footer-background-color: darken($theme-color, 5%) !default;
 
-$banner-height: 640px !default;
+$banner-height: 360px !default;
 $banner-text-color: lighten($white-color, 0%) !default;
 $banner-background: rgba(0,0,0,0.8) !default;
 
